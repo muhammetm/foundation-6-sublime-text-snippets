@@ -1,2 +1,2 @@
 # foundation-6-sublime-text-snippets
-Sublime Text snippets for ZURB Foundation 6
+Zurb Foundation Sites 6 Snippets for Sublime Text 3
