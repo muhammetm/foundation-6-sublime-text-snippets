@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<ul class="horizontal menu" data-magellan>
+  <li><a href="#first">First Arrival</a></li>
+  <li><a href="#second">Second Arrival</a></li>
+  <li><a href="#third">Third Arrival</a></li>
+</ul>
+<div class="sections">
+  <section id="first" data-magellan-target="first">First Section</section>
+  <section id="second" data-magellan-target="second">Second Section</section>
+  <section id="third" data-magellan-target="third">Third Section</section>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-magellan</tabTrigger>
+  <description>ZURB Foundation 6 Magellan</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

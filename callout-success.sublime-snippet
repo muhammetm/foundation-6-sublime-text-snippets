@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<div class="callout success">
+  <h5>This is a callout.</h5>
+  <p>It has an easy to override visual style, and is appropriately subdued.</p>
+  <a href="#">It's dangerous to go alone, take this.</a>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-callout-success</tabTrigger>
+  <description>ZURB Foundation 6 Callout Success</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

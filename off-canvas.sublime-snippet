@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<body>
+  <div class="off-canvas-wrapper">
+    <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+      <div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+         <!-- Your off-canvas menu goes here  -->
+      </div>
+      <div class="off-canvas-content" data-off-canvas-content>
+         <!-- Your content goes here. -->
+         <button type="button" class="button" data-toggle="offCanvas">Open Menu</button>
+      </div>
+    </div>
+  </div>
+</body>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-off-canvas</tabTrigger>
+  <description>ZURB Foundation 6 Off-canvas</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

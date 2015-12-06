@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<ul class="dropdown menu" data-dropdown-menu>
+  <li><a href="#">Item 1</a></li>
+  <li><a href="#">Item 2</a></li>
+  <li><a href="#">Item 3</a></li>
+  <li><a href="#">Item 4</a></li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-menu-dropdown</tabTrigger>
+  <description>ZURB Foundation 6 Dropdown Menu</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

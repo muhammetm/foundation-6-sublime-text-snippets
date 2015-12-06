@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<button class="dropdown button" type="button" data-toggle="example-dropdown-1">Dropdown Button</button>
+<div class="dropdown-pane" id="example-dropdown-1" data-dropdown>
+  Just some junk that needs to be said. Or not. Your choice.
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zf-button-dropdown</tabTrigger>
+  <description>ZURB Foundation 6 Button Dropdown</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
